@@ -202,9 +202,33 @@
 		F62FFCDA1C6AA0D30091CBF1 /* ChipmunkSpace.m in Sources */ = {isa = PBXBuildFile; fileRef = F62FFCD91C6AA0D30091CBF1 /* ChipmunkSpace.m */; };
 		F62FFCDC1C6AA0D30091CBF1 /* LICENSE_Chipmunk.txt in Resources */ = {isa = PBXBuildFile; fileRef = F62FFCDB1C6AA0D30091CBF1 /* LICENSE_Chipmunk.txt */; };
 		F62FFCE01C6AA0D30091CBF1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F62FFCDF1C6AA0D30091CBF1 /* main.m */; };
-		F62FFCE41C6AA0D30091CBF1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F62FFCE31C6AA0D30091CBF1 /* AppDelegate.m */; };
-		F62FFCE71C6AA0D30091CBF1 /* HelloWorldScene.m in Sources */ = {isa = PBXBuildFile; fileRef = F62FFCE61C6AA0D30091CBF1 /* HelloWorldScene.m */; };
 		F62FFCE91C6AA0D30091CBF1 /* white_square.png in Resources */ = {isa = PBXBuildFile; fileRef = F62FFCE81C6AA0D30091CBF1 /* white_square.png */; };
+		F62FFCF31C6AA0F60091CBF1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F62FFCF21C6AA0F60091CBF1 /* Images.xcassets */; };
+		F62FFCFC1C6AA15F0091CBF1 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = F62FFCF41C6AA15F0091CBF1 /* GameScene.m */; };
+		F62FFCFD1C6AA15F0091CBF1 /* Sound.m in Sources */ = {isa = PBXBuildFile; fileRef = F62FFCF51C6AA15F0091CBF1 /* Sound.m */; };
+		F62FFCFE1C6AA15F0091CBF1 /* NoteButton.m in Sources */ = {isa = PBXBuildFile; fileRef = F62FFCF71C6AA15F0091CBF1 /* NoteButton.m */; };
+		F62FFCFF1C6AA15F0091CBF1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F62FFCF91C6AA15F0091CBF1 /* AppDelegate.m */; };
+		F62FFD141C6AA1950091CBF1 /* achievement.wav in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD001C6AA1950091CBF1 /* achievement.wav */; };
+		F62FFD151C6AA1950091CBF1 /* ahh-nicely.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD011C6AA1950091CBF1 /* ahh-nicely.mp3 */; };
+		F62FFD161C6AA1950091CBF1 /* boo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD021C6AA1950091CBF1 /* boo.mp3 */; };
+		F62FFD171C6AA1950091CBF1 /* bubble.wav in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD031C6AA1950091CBF1 /* bubble.wav */; };
+		F62FFD181C6AA1950091CBF1 /* bubble1.wav in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD041C6AA1950091CBF1 /* bubble1.wav */; };
+		F62FFD191C6AA1950091CBF1 /* cake-full.aif in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD051C6AA1950091CBF1 /* cake-full.aif */; };
+		F62FFD1A1C6AA1950091CBF1 /* chat_incoming.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD061C6AA1950091CBF1 /* chat_incoming.mp3 */; };
+		F62FFD1B1C6AA1950091CBF1 /* click0.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD071C6AA1950091CBF1 /* click0.mp3 */; };
+		F62FFD1C1C6AA1950091CBF1 /* click1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD081C6AA1950091CBF1 /* click1.mp3 */; };
+		F62FFD1D1C6AA1950091CBF1 /* doom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD091C6AA1950091CBF1 /* doom.mp3 */; };
+		F62FFD1E1C6AA1950091CBF1 /* drumroll.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD0A1C6AA1950091CBF1 /* drumroll.mp3 */; };
+		F62FFD1F1C6AA1950091CBF1 /* gavel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD0B1C6AA1950091CBF1 /* gavel.mp3 */; };
+		F62FFD201C6AA1950091CBF1 /* ho.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD0C1C6AA1950091CBF1 /* ho.mp3 */; };
+		F62FFD211C6AA1950091CBF1 /* laser-prep-reverse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD0D1C6AA1950091CBF1 /* laser-prep-reverse.mp3 */; };
+		F62FFD221C6AA1950091CBF1 /* laser-prep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD0E1C6AA1950091CBF1 /* laser-prep.mp3 */; };
+		F62FFD231C6AA1950091CBF1 /* notice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD0F1C6AA1950091CBF1 /* notice.mp3 */; };
+		F62FFD241C6AA1950091CBF1 /* select-classic.wav in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD101C6AA1950091CBF1 /* select-classic.wav */; };
+		F62FFD251C6AA1950091CBF1 /* sonar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD111C6AA1950091CBF1 /* sonar.mp3 */; };
+		F62FFD261C6AA1950091CBF1 /* start-echo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD121C6AA1950091CBF1 /* start-echo.mp3 */; };
+		F62FFD271C6AA1950091CBF1 /* whoosh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F62FFD131C6AA1950091CBF1 /* whoosh.mp3 */; };
+		F62FFFFE1C6BA5310091CBF1 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F62FFFFD1C6BA5310091CBF1 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -659,11 +683,37 @@
 		F62FFCDB1C6AA0D30091CBF1 /* LICENSE_Chipmunk.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = LICENSE_Chipmunk.txt; path = Libraries/LICENSE_Chipmunk.txt; sourceTree = "<group>"; };
 		F62FFCDE1C6AA0D30091CBF1 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Prefix.pch; path = "Supporting Files/Prefix.pch"; sourceTree = "<group>"; };
 		F62FFCDF1C6AA0D30091CBF1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "Supporting Files/main.m"; sourceTree = "<group>"; };
-		F62FFCE21C6AA0D30091CBF1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Classes/AppDelegate.h; sourceTree = "<group>"; };
-		F62FFCE31C6AA0D30091CBF1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Classes/AppDelegate.m; sourceTree = "<group>"; };
-		F62FFCE51C6AA0D30091CBF1 /* HelloWorldScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = HelloWorldScene.h; path = Classes/HelloWorldScene.h; sourceTree = "<group>"; };
-		F62FFCE61C6AA0D30091CBF1 /* HelloWorldScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = HelloWorldScene.m; path = Classes/HelloWorldScene.m; sourceTree = "<group>"; };
 		F62FFCE81C6AA0D30091CBF1 /* white_square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = white_square.png; path = Resources/white_square.png; sourceTree = "<group>"; };
+		F62FFCF21C6AA0F60091CBF1 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		F62FFCF41C6AA15F0091CBF1 /* GameScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
+		F62FFCF51C6AA15F0091CBF1 /* Sound.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Sound.m; sourceTree = "<group>"; };
+		F62FFCF61C6AA15F0091CBF1 /* NoteButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NoteButton.h; sourceTree = "<group>"; };
+		F62FFCF71C6AA15F0091CBF1 /* NoteButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NoteButton.m; sourceTree = "<group>"; };
+		F62FFCF81C6AA15F0091CBF1 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		F62FFCF91C6AA15F0091CBF1 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		F62FFCFA1C6AA15F0091CBF1 /* GameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
+		F62FFCFB1C6AA15F0091CBF1 /* Sound.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sound.h; sourceTree = "<group>"; };
+		F62FFD001C6AA1950091CBF1 /* achievement.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = achievement.wav; sourceTree = "<group>"; };
+		F62FFD011C6AA1950091CBF1 /* ahh-nicely.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ahh-nicely.mp3"; sourceTree = "<group>"; };
+		F62FFD021C6AA1950091CBF1 /* boo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = boo.mp3; sourceTree = "<group>"; };
+		F62FFD031C6AA1950091CBF1 /* bubble.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bubble.wav; sourceTree = "<group>"; };
+		F62FFD041C6AA1950091CBF1 /* bubble1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bubble1.wav; sourceTree = "<group>"; };
+		F62FFD051C6AA1950091CBF1 /* cake-full.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "cake-full.aif"; sourceTree = "<group>"; };
+		F62FFD061C6AA1950091CBF1 /* chat_incoming.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chat_incoming.mp3; sourceTree = "<group>"; };
+		F62FFD071C6AA1950091CBF1 /* click0.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = click0.mp3; sourceTree = "<group>"; };
+		F62FFD081C6AA1950091CBF1 /* click1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = click1.mp3; sourceTree = "<group>"; };
+		F62FFD091C6AA1950091CBF1 /* doom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = doom.mp3; sourceTree = "<group>"; };
+		F62FFD0A1C6AA1950091CBF1 /* drumroll.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = drumroll.mp3; sourceTree = "<group>"; };
+		F62FFD0B1C6AA1950091CBF1 /* gavel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gavel.mp3; sourceTree = "<group>"; };
+		F62FFD0C1C6AA1950091CBF1 /* ho.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ho.mp3; sourceTree = "<group>"; };
+		F62FFD0D1C6AA1950091CBF1 /* laser-prep-reverse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "laser-prep-reverse.mp3"; sourceTree = "<group>"; };
+		F62FFD0E1C6AA1950091CBF1 /* laser-prep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "laser-prep.mp3"; sourceTree = "<group>"; };
+		F62FFD0F1C6AA1950091CBF1 /* notice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = notice.mp3; sourceTree = "<group>"; };
+		F62FFD101C6AA1950091CBF1 /* select-classic.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "select-classic.wav"; sourceTree = "<group>"; };
+		F62FFD111C6AA1950091CBF1 /* sonar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sonar.mp3; sourceTree = "<group>"; };
+		F62FFD121C6AA1950091CBF1 /* start-echo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "start-echo.mp3"; sourceTree = "<group>"; };
+		F62FFD131C6AA1950091CBF1 /* whoosh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = whoosh.mp3; sourceTree = "<group>"; };
+		F62FFFFD1C6BA5310091CBF1 /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -681,7 +731,12 @@
 		F62FFA1E1C6AA0CF0091CBF1 = {
 			isa = PBXGroup;
 			children = (
+				F62FFCE11C6AA0D30091CBF1 /* Classes */,
 				F62FFA2C1C6AA0CF0091CBF1 /* SoundChase */,
+				F62FFCDD1C6AA0D30091CBF1 /* Supporting Files */,
+				F62FFA2D1C6AA0CF0091CBF1 /* Resources */,
+				F62FFA561C6AA0D00091CBF1 /* Frameworks */,
+				F62FFA591C6AA0D00091CBF1 /* Libraries */,
 				F62FFA281C6AA0CF0091CBF1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -698,11 +753,8 @@
 		F62FFA2C1C6AA0CF0091CBF1 /* SoundChase */ = {
 			isa = PBXGroup;
 			children = (
-				F62FFA2D1C6AA0CF0091CBF1 /* Resources */,
-				F62FFA561C6AA0D00091CBF1 /* Frameworks */,
-				F62FFA591C6AA0D00091CBF1 /* Libraries */,
-				F62FFCE11C6AA0D30091CBF1 /* Classes */,
-				F62FFCDD1C6AA0D30091CBF1 /* Supporting Files */,
+				F62FFCFB1C6AA15F0091CBF1 /* Sound.h */,
+				F62FFCF51C6AA15F0091CBF1 /* Sound.m */,
 			);
 			path = SoundChase;
 			sourceTree = "<group>";
@@ -710,6 +762,7 @@
 		F62FFA2D1C6AA0CF0091CBF1 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				F62FFD281C6AA1A30091CBF1 /* SoundFiles */,
 				F62FFA2E1C6AA0CF0091CBF1 /* Default.png */,
 				F62FFA301C6AA0CF0091CBF1 /* Default@2x.png */,
 				F62FFA321C6AA0CF0091CBF1 /* Default-568h@2x.png */,
@@ -718,9 +771,12 @@
 				F62FFA521C6AA0D00091CBF1 /* iTunesArtwork */,
 				F62FFA541C6AA0D00091CBF1 /* iTunesArtwork@2x */,
 				F62FFCE81C6AA0D30091CBF1 /* white_square.png */,
+				F62FFCF21C6AA0F60091CBF1 /* Images.xcassets */,
 				F62FFA361C6AA0CF0091CBF1 /* Icons */,
+				F62FFFFD1C6BA5310091CBF1 /* Launch Screen.storyboard */,
 			);
 			name = Resources;
+			path = SoundChase;
 			sourceTree = "<group>";
 		};
 		F62FFA361C6AA0CF0091CBF1 /* Icons */ = {
@@ -749,6 +805,7 @@
 				F62FFA571C6AA0D00091CBF1 /* libObjectiveChipmunk.a */,
 			);
 			name = Frameworks;
+			path = SoundChase;
 			sourceTree = "<group>";
 		};
 		F62FFA591C6AA0D00091CBF1 /* Libraries */ = {
@@ -763,6 +820,7 @@
 				F62FFC6F1C6AA0D20091CBF1 /* Chipmunk */,
 			);
 			name = Libraries;
+			path = SoundChase;
 			sourceTree = "<group>";
 		};
 		F62FFA5A1C6AA0D00091CBF1 /* cocos2d */ = {
@@ -1535,17 +1593,48 @@
 				F62FFCDF1C6AA0D30091CBF1 /* main.m */,
 			);
 			name = "Supporting Files";
+			path = SoundChase;
 			sourceTree = "<group>";
 		};
 		F62FFCE11C6AA0D30091CBF1 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				F62FFCE21C6AA0D30091CBF1 /* AppDelegate.h */,
-				F62FFCE31C6AA0D30091CBF1 /* AppDelegate.m */,
-				F62FFCE51C6AA0D30091CBF1 /* HelloWorldScene.h */,
-				F62FFCE61C6AA0D30091CBF1 /* HelloWorldScene.m */,
+				F62FFCFA1C6AA15F0091CBF1 /* GameScene.h */,
+				F62FFCF41C6AA15F0091CBF1 /* GameScene.m */,
+				F62FFCF61C6AA15F0091CBF1 /* NoteButton.h */,
+				F62FFCF71C6AA15F0091CBF1 /* NoteButton.m */,
+				F62FFCF81C6AA15F0091CBF1 /* AppDelegate.h */,
+				F62FFCF91C6AA15F0091CBF1 /* AppDelegate.m */,
 			);
 			name = Classes;
+			path = SoundChase;
+			sourceTree = "<group>";
+		};
+		F62FFD281C6AA1A30091CBF1 /* SoundFiles */ = {
+			isa = PBXGroup;
+			children = (
+				F62FFD001C6AA1950091CBF1 /* achievement.wav */,
+				F62FFD011C6AA1950091CBF1 /* ahh-nicely.mp3 */,
+				F62FFD021C6AA1950091CBF1 /* boo.mp3 */,
+				F62FFD031C6AA1950091CBF1 /* bubble.wav */,
+				F62FFD041C6AA1950091CBF1 /* bubble1.wav */,
+				F62FFD051C6AA1950091CBF1 /* cake-full.aif */,
+				F62FFD061C6AA1950091CBF1 /* chat_incoming.mp3 */,
+				F62FFD071C6AA1950091CBF1 /* click0.mp3 */,
+				F62FFD081C6AA1950091CBF1 /* click1.mp3 */,
+				F62FFD091C6AA1950091CBF1 /* doom.mp3 */,
+				F62FFD0A1C6AA1950091CBF1 /* drumroll.mp3 */,
+				F62FFD0B1C6AA1950091CBF1 /* gavel.mp3 */,
+				F62FFD0C1C6AA1950091CBF1 /* ho.mp3 */,
+				F62FFD0D1C6AA1950091CBF1 /* laser-prep-reverse.mp3 */,
+				F62FFD0E1C6AA1950091CBF1 /* laser-prep.mp3 */,
+				F62FFD0F1C6AA1950091CBF1 /* notice.mp3 */,
+				F62FFD101C6AA1950091CBF1 /* select-classic.wav */,
+				F62FFD111C6AA1950091CBF1 /* sonar.mp3 */,
+				F62FFD121C6AA1950091CBF1 /* start-echo.mp3 */,
+				F62FFD131C6AA1950091CBF1 /* whoosh.mp3 */,
+			);
+			name = SoundFiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1626,28 +1715,50 @@
 			buildActionMask = 2147483647;
 			files = (
 				F62FFA311C6AA0CF0091CBF1 /* Default@2x.png in Resources */,
+				F62FFD1C1C6AA1950091CBF1 /* click1.mp3 in Resources */,
+				F62FFCF31C6AA0F60091CBF1 /* Images.xcassets in Resources */,
+				F62FFD1A1C6AA1950091CBF1 /* chat_incoming.mp3 in Resources */,
+				F62FFD181C6AA1950091CBF1 /* bubble1.wav in Resources */,
 				F62FFCDC1C6AA0D30091CBF1 /* LICENSE_Chipmunk.txt in Resources */,
 				F62FFA441C6AA0CF0091CBF1 /* Icon-120.png in Resources */,
 				F62FFA3A1C6AA0CF0091CBF1 /* Icon@2x.png in Resources */,
+				F62FFD171C6AA1950091CBF1 /* bubble.wav in Resources */,
+				F62FFD211C6AA1950091CBF1 /* laser-prep-reverse.mp3 in Resources */,
 				F62FFA4C1C6AA0D00091CBF1 /* Icon-Small@2x.png in Resources */,
 				F62FFA3E1C6AA0CF0091CBF1 /* Icon-72@2x.png in Resources */,
 				F62FFA2F1C6AA0CF0091CBF1 /* Default.png in Resources */,
 				F62FFA381C6AA0CF0091CBF1 /* Icon.png in Resources */,
+				F62FFD261C6AA1950091CBF1 /* start-echo.mp3 in Resources */,
 				F62FFA461C6AA0CF0091CBF1 /* Icon-iPad-Spotlight-iOS7@2x.png in Resources */,
+				F62FFD221C6AA1950091CBF1 /* laser-prep.mp3 in Resources */,
+				F62FFD1F1C6AA1950091CBF1 /* gavel.mp3 in Resources */,
 				F62FFA351C6AA0CF0091CBF1 /* Default-Landscape~ipad.png in Resources */,
+				F62FFD1E1C6AA1950091CBF1 /* drumroll.mp3 in Resources */,
 				F62FFA4A1C6AA0D00091CBF1 /* Icon-Small.png in Resources */,
+				F62FFD1D1C6AA1950091CBF1 /* doom.mp3 in Resources */,
 				F62FFA481C6AA0D00091CBF1 /* Icon-Small-50.png in Resources */,
+				F62FFD161C6AA1950091CBF1 /* boo.mp3 in Resources */,
+				F62FFD271C6AA1950091CBF1 /* whoosh.mp3 in Resources */,
+				F62FFD241C6AA1950091CBF1 /* select-classic.wav in Resources */,
+				F62FFD251C6AA1950091CBF1 /* sonar.mp3 in Resources */,
 				F62FFCE91C6AA0D30091CBF1 /* white_square.png in Resources */,
 				F62FFA3C1C6AA0CF0091CBF1 /* Icon-72.png in Resources */,
+				F62FFD151C6AA1950091CBF1 /* ahh-nicely.mp3 in Resources */,
 				F62FFB371C6AA0D10091CBF1 /* LICENSE_cocos2d.txt in Resources */,
 				F62FFB3A1C6AA0D10091CBF1 /* CCEffectRenderer.h in Resources */,
+				F62FFD231C6AA1950091CBF1 /* notice.mp3 in Resources */,
 				F62FFA331C6AA0CF0091CBF1 /* Default-568h@2x.png in Resources */,
 				F62FFA531C6AA0D00091CBF1 /* iTunesArtwork in Resources */,
 				F62FFC111C6AA0D20091CBF1 /* LICENSE_CCBReader.txt in Resources */,
 				F62FFA4E1C6AA0D00091CBF1 /* Icon-Spotlight-iOS7.png in Resources */,
 				F62FFA421C6AA0CF0091CBF1 /* Icon-76@2x.png in Resources */,
+				F62FFD141C6AA1950091CBF1 /* achievement.wav in Resources */,
 				F62FFA501C6AA0D00091CBF1 /* Icon-Spotlight-iOS7@2x.png in Resources */,
+				F62FFD201C6AA1950091CBF1 /* ho.mp3 in Resources */,
 				F62FFA401C6AA0CF0091CBF1 /* Icon-76.png in Resources */,
+				F62FFD191C6AA1950091CBF1 /* cake-full.aif in Resources */,
+				F62FFD1B1C6AA1950091CBF1 /* click0.mp3 in Resources */,
+				F62FFFFE1C6BA5310091CBF1 /* Launch Screen.storyboard in Resources */,
 				F62FFA551C6AA0D00091CBF1 /* iTunesArtwork@2x in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1685,7 +1796,7 @@
 				F62FFB7E1C6AA0D10091CBF1 /* CCEffectNode.m in Sources */,
 				F62FFB7B1C6AA0D10091CBF1 /* CCEffectPixellate.m in Sources */,
 				F62FFAA21C6AA0D00091CBF1 /* CCClippingNode.m in Sources */,
-				F62FFCE71C6AA0D30091CBF1 /* HelloWorldScene.m in Sources */,
+				F62FFCFF1C6AA15F0091CBF1 /* AppDelegate.m in Sources */,
 				F62FFBFB1C6AA0D20091CBF1 /* CCAnimationManager.m in Sources */,
 				F62FFB811C6AA0D10091CBF1 /* CCEffectStack.m in Sources */,
 				F62FFB351C6AA0D10091CBF1 /* cocos2d.m in Sources */,
@@ -1703,6 +1814,7 @@
 				F62FFAFC1C6AA0D10091CBF1 /* CCResponder.m in Sources */,
 				F62FFACF1C6AA0D00091CBF1 /* CCNode+Debug.m in Sources */,
 				F62FFAC71C6AA0D00091CBF1 /* CCMotionStreak.m in Sources */,
+				F62FFCFD1C6AA15F0091CBF1 /* Sound.m in Sources */,
 				F62FFB211C6AA0D10091CBF1 /* CCTexturePVR.m in Sources */,
 				F62FFC2D1C6AA0D20091CBF1 /* OALSimpleAudio.m in Sources */,
 				F62FFB8D1C6AA0D10091CBF1 /* CCControl.m in Sources */,
@@ -1768,6 +1880,7 @@
 				F62FFA791C6AA0D00091CBF1 /* CCShader.m in Sources */,
 				F62FFBE31C6AA0D20091CBF1 /* CCVertex.m in Sources */,
 				F62FFBE91C6AA0D20091CBF1 /* NSAttributedString+CCAdditions.m in Sources */,
+				F62FFCFE1C6AA15F0091CBF1 /* NoteButton.m in Sources */,
 				F62FFA971C6AA0D00091CBF1 /* CCActionTween.m in Sources */,
 				F62FFAFF1C6AA0D10091CBF1 /* CCResponderManager.m in Sources */,
 				F62FFA5F1C6AA0D00091CBF1 /* CCNoARC.m in Sources */,
@@ -1775,7 +1888,6 @@
 				F62FFB0A1C6AA0D10091CBF1 /* CCSprite.m in Sources */,
 				F62FFBC41C6AA0D20091CBF1 /* CCDirectorMac.m in Sources */,
 				F62FFC491C6AA0D20091CBF1 /* ALSource.m in Sources */,
-				F62FFCE41C6AA0D30091CBF1 /* AppDelegate.m in Sources */,
 				F62FFC651C6AA0D20091CBF1 /* NSMutableDictionary+WeakReferences.m in Sources */,
 				F62FFB721C6AA0D10091CBF1 /* CCEffectContrast.m in Sources */,
 				F62FFBDC1C6AA0D20091CBF1 /* CCProfiling.m in Sources */,
@@ -1791,6 +1903,7 @@
 				F62FFBCA1C6AA0D20091CBF1 /* CCWindow.m in Sources */,
 				F62FFBBA1C6AA0D20091CBF1 /* CCGLView.m in Sources */,
 				F62FFB161C6AA0D10091CBF1 /* CCSpriteFrameCache.m in Sources */,
+				F62FFCFC1C6AA15F0091CBF1 /* GameScene.m in Sources */,
 				F62FFB061C6AA0D10091CBF1 /* CCScheduler.m in Sources */,
 				F62FFAC01C6AA0D00091CBF1 /* CCLayout.m in Sources */,
 				F62FFC421C6AA0D20091CBF1 /* ALListener.m in Sources */,
@@ -1861,7 +1974,7 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
 			};
@@ -1881,7 +1994,7 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
 			};
@@ -1892,6 +2005,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -1902,6 +2016,7 @@
 					"\"$(SRCROOT)/$(PROJECT_NAME)/Libraries/Chipmunk/objectivec/include\"",
 				);
 				INFOPLIST_FILE = SoundChase/Resources/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/SoundChase",
@@ -1913,6 +2028,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -1922,6 +2038,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -1931,6 +2048,7 @@
 					"\"$(SRCROOT)/$(PROJECT_NAME)/Libraries/Chipmunk/objectivec/include\"",
 				);
 				INFOPLIST_FILE = SoundChase/Resources/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/SoundChase",
@@ -1942,6 +2060,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
